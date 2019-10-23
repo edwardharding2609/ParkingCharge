@@ -1,0 +1,11 @@
+C:\Users\Edd\source\repos\ParkingCharge\ParkingCharge\bin\Debug\netcoreapp2.1\ParkingCharge.deps.json
+C:\Users\Edd\source\repos\ParkingCharge\ParkingCharge\bin\Debug\netcoreapp2.1\ParkingCharge.runtimeconfig.json
+C:\Users\Edd\source\repos\ParkingCharge\ParkingCharge\bin\Debug\netcoreapp2.1\ParkingCharge.runtimeconfig.dev.json
+C:\Users\Edd\source\repos\ParkingCharge\ParkingCharge\bin\Debug\netcoreapp2.1\ParkingCharge.dll
+C:\Users\Edd\source\repos\ParkingCharge\ParkingCharge\bin\Debug\netcoreapp2.1\ParkingCharge.pdb
+C:\Users\Edd\source\repos\ParkingCharge\ParkingCharge\obj\Debug\netcoreapp2.1\ParkingCharge.csprojAssemblyReference.cache
+C:\Users\Edd\source\repos\ParkingCharge\ParkingCharge\obj\Debug\netcoreapp2.1\ParkingCharge.csproj.CoreCompileInputs.cache
+C:\Users\Edd\source\repos\ParkingCharge\ParkingCharge\obj\Debug\netcoreapp2.1\ParkingCharge.AssemblyInfoInputs.cache
+C:\Users\Edd\source\repos\ParkingCharge\ParkingCharge\obj\Debug\netcoreapp2.1\ParkingCharge.AssemblyInfo.cs
+C:\Users\Edd\source\repos\ParkingCharge\ParkingCharge\obj\Debug\netcoreapp2.1\ParkingCharge.dll
+C:\Users\Edd\source\repos\ParkingCharge\ParkingCharge\obj\Debug\netcoreapp2.1\ParkingCharge.pdb
